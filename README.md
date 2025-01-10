@@ -14,3 +14,5 @@ study about barbell
 
 React Remind
 
+bigData qualifications
+
